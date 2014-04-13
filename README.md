@@ -9,6 +9,7 @@ codejam-2014
  
 ## <a name="team-members"></a>Contributors
 * [Dhia Abbassi](https://plus.google.com/u/0/+DhiaAbbassi "Dhia Google Profile")
+* [Holger Kraus](https://plus.google.com/u/0/+HolgerKraus23 "Holger Google Profile")
 
 ## <a name="links"></a>Useful Links
 * [Google Code Jam](http://code.google.com/codejam "Code Jam Website")
