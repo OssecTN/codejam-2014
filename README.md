@@ -8,8 +8,8 @@ codejam-2014
 * [Useful Links](#links) 
  
 ## <a name="team-members"></a>Contributors
-* [Dhia Abbassi](https://plus.google.com/u/0/+DhiaAbbassi "Dhia Google Profile")
-* [Holger Kraus](https://plus.google.com/u/0/+HolgerKraus23 "Holger Google Profile")
+* [Dhia Abbassi](https://plus.google.com/u/0/+DhiaAbbassi "Dhia Google Profile")  `Python version`
+* [Holger Kraus](https://plus.google.com/u/0/+HolgerKraus23 "Holger Google Profile")  `Java version`
 
 ## <a name="links"></a>Useful Links
 * [Google Code Jam](http://code.google.com/codejam "Code Jam Website")
