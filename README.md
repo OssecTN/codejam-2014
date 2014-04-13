@@ -11,6 +11,7 @@ codejam-2014
 * [Dhia Abbassi](https://plus.google.com/u/0/+DhiaAbbassi "Dhia Google Profile")
 
 ## <a name="links"></a>Useful Links
+* [Google Code Jam](http://code.google.com/codejam "Code Jam Website")
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/ "Guide to Python")
 * [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips "Python Performance Tips")
 
